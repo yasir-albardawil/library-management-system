@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="library management system">
+    <output-path>$PROJECT_DIR$/out/artifacts/library_management_system</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="net.buammar.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="deb" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="library_management_system.jar">
+        <element id="module-output" name="library management system" />
+      </element>
+    </root>
+  </artifact>
+</component>
