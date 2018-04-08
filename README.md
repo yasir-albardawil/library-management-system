@@ -1,5 +1,5 @@
 # library management system
 
-Login:
+Login information 
 username: admin
 password: admin
