@@ -20,6 +20,8 @@ These instructions will get you a copy of the project up and running on your loc
 | ------------- | ------------- |
 | Admin | Admin |
 
+## Author
+
 * **Yasir Albardawil** - *Initial work* - [yasir-albardawil](https://github.com/yasir-albardawil)
 
 
